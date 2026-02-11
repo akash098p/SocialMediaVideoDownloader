@@ -33,6 +33,11 @@ be uploaded. - These must be ignored using `.gitignore`.
 
 ------------------------------------------------------------------------
 
+# 💻 Preview
+
+![SMD](SMD preview.png)
+------------------------------------------------------------------------
+
 # 🛠 Requirements
 
 -   Python 3.9 or higher
