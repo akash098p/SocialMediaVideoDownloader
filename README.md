@@ -1,6 +1,6 @@
-# 🎬 Open YouTube Downloader
+# 🎬 Social Media Video Downloader
 
-A full-featured YouTube downloader built using **FastAPI + yt-dlp**.
+A full-featured Social Media like YouTube, Instagram, Facebook, X(Twitter) video downloader built using **FastAPI + yt-dlp**.
 
 This project allows users to: - 🎥 Download videos in all available
 qualities (144p to 4K) - 🎵 Download audio-only formats - 🔄 Track
@@ -13,7 +13,7 @@ history - 📂 Automatically save files locally
 
 After cloning, your project should look like this:
 
-    SMD-Video-Downloader/
+    SocialMediaVideoDownloader/
     │
     ├── backend.py
     ├── requirements.txt
@@ -46,8 +46,8 @@ Check Python version:
 
 ## 1️⃣ Clone the Repository
 
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-    cd SMD-Video-Downloader
+    git clone https://github.com/akash098p/SocialMediaVideoDownloader.git
+    cd SocialMediaVideoDownloader
 
 ------------------------------------------------------------------------
 
@@ -110,50 +110,6 @@ All downloaded videos/audio files are stored in:
     downloads/
 
 This folder is automatically created when the backend runs.
-
-------------------------------------------------------------------------
-
-# 📌 Git Deployment Structure (For Project Owner)
-
-Your GitHub repository should contain ONLY:
-
-    backend.py
-    requirements.txt
-    README.md
-    .gitignore
-    static/
-
-------------------------------------------------------------------------
-
-## ✅ Recommended .gitignore File
-
-Create a file named `.gitignore` and add:
-
-    venv/
-    __pycache__/
-    downloads/
-    *.pyc
-
-This prevents unnecessary files from being uploaded.
-
-------------------------------------------------------------------------
-
-# 🔄 How To Push To GitHub
-
-If pushing for the first time:
-
-    git init
-    git add .
-    git commit -m "Initial commit"
-    git branch -M main
-    git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-    git push -u origin main
-
-For future updates:
-
-    git add .
-    git commit -m "Updated project"
-    git push
 
 ------------------------------------------------------------------------
 
