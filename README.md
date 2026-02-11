@@ -48,7 +48,7 @@ Check Python version:
 
 ------------------------------------------------------------------------
 
-# 📦 Installation Guide (For Viewers)
+# 📦 Installation Guide 
 
 ## 1️⃣ Clone the Repository
 
