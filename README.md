@@ -35,7 +35,7 @@ be uploaded. - These must be ignored using `.gitignore`.
 
 # 💻 Preview
 
-![SMD](SMD preview.png)
+![SMD](SMDPreview.png)
 ------------------------------------------------------------------------
 
 # 🛠 Requirements
