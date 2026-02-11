@@ -28,8 +28,7 @@ After cloning, your project should look like this:
     ├── downloads/        (auto-created)
     └── venv/             (NOT uploaded to GitHub)
 
-⚠ Important: - `venv/` should NOT be uploaded. - `downloads/` should NOT
-be uploaded. - These must be ignored using `.gitignore`.
+⚠ Important: - `venv/` not uploaded. - `downloads/` not uploaded. - These are ignored using `.gitignore`.
 
 ------------------------------------------------------------------------
 
