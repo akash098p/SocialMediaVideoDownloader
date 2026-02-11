@@ -22,6 +22,8 @@ After cloning, your project should look like this:
     │
     ├── static/
     │     ├── index.html
+    │     ├── script.js
+    │     └── style.css
     │
     ├── downloads/        (auto-created)
     └── venv/             (NOT uploaded to GitHub)
